@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students PUBLIC "-//UniTime//DTD University Course Timetabling/EN" "http://www.unitime.org/interface/Student.dtd">
+
+<students term="Fal" year="2010" campus="TEST">
+  <student externalId="1914698" firstName="Phuc" lastName="Nguyen">
+    <studentAcadAreaClass>
+      <acadAreaClass academicArea="A" academicClass="02"/>
+    </studentAcadAreaClass>
+    <studentMajors>
+      <major academicArea="A" code="M3"/>
+    </studentMajors>
+  </student>
+  
+  <student externalId="1002" firstName="Brian" lastName="Student">
+    <studentAcadAreaClass>
+      <acadAreaClass academicArea="A" academicClass="02"/>
+    </studentAcadAreaClass>
+    <studentMajors>
+      <major academicArea="A" academicClass="02" code="M1"/>
+      <major academicArea="A" academicClass="02" code="M3"/>
+    </studentMajors>
+    <!-- <studentMinors>
+      <minor academicArea="TEST" academicClass="01" code="T"/>
+    </studentMinors> -->
+    <!-- <studentGroups>
+      <studentGroup group="YEx"/> 
+    </studentGroups> -->
+  </student>
+</students>

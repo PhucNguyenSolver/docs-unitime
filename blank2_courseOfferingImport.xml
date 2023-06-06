@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE offerings PUBLIC "-//UniTime//DTD University Course Timetabling/EN" "http://www.unitime.org/interface/CourseOfferingExport.dtd">
+
+<offerings term="Fal" year="2010" campus="TEST">
+  <offering id="CO1003" offered="true" action="insert">
+    <course id="1358973" subject="CO" courseNbr="1003" controlling="true" title="Nhap mon dien toan 3">
+      <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+    </course>
+    <config name="1" limit="10" durationType="MIN_PER_WEEK">
+      <subpart type="Lec" suffix="" minPerWeek="50"/>
+      <class id="CO 1003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+    </config>
+  </offering>
+	
+  <offering id="CO1004" offered="true" action="insert">
+    <course id="1358974" subject="CO" courseNbr="1004" controlling="true" title="Nhap mon dien toan 4">
+      <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+    </course>
+    <config name="1" limit="10" durationType="MIN_PER_WEEK">
+      <subpart type="Lec" suffix="" minPerWeek="50"/>
+      <class id="CO 1004 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+    </config>
+  </offering>
+  
+	<offering id="CO1005" offered="true" action="insert">
+    <course id="1358975" subject="CO" courseNbr="1005" controlling="true" title="Nhap mon dien toan 5">
+      <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+    </course>
+    <config name="1" limit="10" durationType="MIN_PER_WEEK">
+      <subpart type="Lec" suffix="" minPerWeek="50"/>
+      <class id="CO 1005 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+    </config>
+  </offering>
+
+</offerings>
