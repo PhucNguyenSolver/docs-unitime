@@ -1,0 +1,97 @@
+[
+  {
+    "semester": 1,
+    "courses": [
+      "LA1003",
+      "MI1003",
+      "PE1003",
+      "MT1003",
+      "PH1003",
+      "CO1005",
+      "CO1023"
+    ]
+  },
+  {
+    "semester": 2,
+    "courses": [
+      "LA1005",
+      "PE1005",
+      "MT1005",
+      "MT1007",
+      "CO1007",
+      "CO1027",
+      "PH1007"
+    ]
+  },
+  {
+    "semester": 3,
+    "courses": [
+      "LA1007",
+      "SP1031",
+      "CO2007",
+      "CO2011",
+      "CO2003",
+      "PE1007"
+    ]
+  },
+  {
+    "semester": 4,
+    "courses": [
+      "LA1009",
+      "SP1033",
+      "CO2017",
+      "CO2039",
+      "MT2013"
+    ],
+    "freeElective": [
+      "Tự chọn tự do"
+    ]
+  },
+  {
+    "semester": 5,
+    "courses": [
+      "SP1035",
+      "CO3093",
+      "CO2013",
+      "CO3001",
+      "CH1003"
+    ],
+    "freeElective": [
+      "Đồ án tổng hợp - CO3101 hoặc CO3103 hoặc CO3105"
+    ]
+  },
+  {
+    "semester": 6,
+    "courses": [
+      "SP1039",
+      "CO2001",
+      "CO3005",
+      "CO3335"
+    ],
+    "freeElective": [
+      "Tự chọn tự do",
+      "Thực tập đồ án môn học đa ngành - CO3107 hoặc CO3109 hoặc CO3111"
+    ]
+  },
+  {
+    "semester": 7,
+    "courses": [
+      "SP1037",
+      "CO4029"
+    ],
+    "freeElective": [
+      "Tự chọn tự do",
+      "2 môn Tự chọn nhóm C"
+    ]
+  },
+  {
+    "semester": 8,
+    "courses": [
+      "SP1007",
+      "CO4337"
+    ],
+    "freeElective": [
+      "3 môn Tự chọn nhóm C"
+    ]
+  }
+]
