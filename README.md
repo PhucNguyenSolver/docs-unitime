@@ -2,7 +2,8 @@
 
 ## Cài đặt UniTime
 1. Tải và cài đặt bản build vào Tomcat
-    Xem chi tiết tại <https://help.unitime.org/installation>
+   
+   Xem chi tiết tại <https://help.unitime.org/installation>
 
 2. Tạo database UniTime
     - Sử dụng command line `mysql -uroot -p`
@@ -12,24 +13,30 @@
 1. Cấu hình server Tomcat
     - Tạo file cấu hình [unitime.properties](./unitime.properties). File này chứa cấu hình kết nối database và một số tham số khác để customize - tuỳ chỉnh UniTime.
     - Thêm đường dẫn đến file vừa tạo vào Java Option
+
       ![](./images/tomcat.png)
+
       Ví dụ: `-Dtmtbl.custom.properties=D:\Phuc\College\UniTime\Tomcat 9.0\unitime.properties`
 
 ## Nhập liệu vào UniTime
 1. Đăng nhập tài khoản admin (user:admin, password:admin)
 2. Vào trang Data Exchange (Administration > Academic Session > Data Exchange)
-  ![](./images/where_data_exchange.png)
-  ![](./images/data_exchange.png)
+    
+    ![](./images/where_data_exchange.png)
+    
+    ![](./images/data_exchange.png)
 3. Tải lên và import các file dữ liệu XML
     - Thêm học kì mới: import file [sessionSetup.xml](./xml/blank1_sessionSetup.xml)
     - Thêm dữ liệu môn học: import file [courseOffering.xml](./xml/blank2_courseOfferingImport.xml)
     - Thêm dữ liệu sinh viên: import file [studentInfo.xml](./xml/blank3_studentInfoImport.xml)
     - Đăng nhập lại vào tài khoản admin và vào trang Academic Sessions để kiểm tra học kì vừa được tạo (222 hcmut)
-      ![](./images/academic_sessions.png)
+        
+        ![](./images/academic_sessions.png)
 
 ## Sinh viên đăng ký môn học
 1. Đăng nhập tài khoản sinh viên (user:student, password:student) và chọn kì đăng ký - hcmut 222
 2. Vào trang Course Request
+   
    ![](./images/where_course_request.png)
 3. Tìm kiếm môn học
    ![search in course request](./images/search_in_course_request.png)
