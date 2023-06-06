@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE students PUBLIC "-//UniTime//DTD University Course Timetabling/EN" "http://www.unitime.org/interface/Student.dtd">
 
-<students term="Fal" year="2010" campus="TEST">
+<students term="222" year="2022" campus="hcmut">
   <student externalId="1914698" firstName="Phuc" lastName="Nguyen">
     <studentAcadAreaClass>
       <acadAreaClass academicArea="A" academicClass="02"/>

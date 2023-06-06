@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE offerings PUBLIC "-//UniTime//DTD University Course Timetabling/EN" "http://www.unitime.org/interface/CourseOfferingExport.dtd">
+
+<offerings term="222" year="2022" campus="hcmut">
+
+<offering id="CH1003" offered="true" action="insert">
+  <course id="165523" subject="CH" courseNbr="1003" controlling="true" title="General Chemistry">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CH 1003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO1005" offered="true" action="insert">
+  <course id="165524" subject="CO" courseNbr="1005" controlling="true" title="Introduction to Computing">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 1005 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO1007" offered="true" action="insert">
+  <course id="165525" subject="CO" courseNbr="1007" controlling="true" title="Discrete Structures for Computing">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 1007 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO1023" offered="true" action="insert">
+  <course id="165526" subject="CO" courseNbr="1023" controlling="true" title="Digital Systems">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 1023 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO1027" offered="true" action="insert">
+  <course id="165527" subject="CO" courseNbr="1027" controlling="true" title="Programming Fundamentals">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 1027 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2001" offered="true" action="insert">
+  <course id="165528" subject="CO" courseNbr="2001" controlling="true" title="Professional Skills for Engineers">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2001 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2003" offered="true" action="insert">
+  <course id="165529" subject="CO" courseNbr="2003" controlling="true" title="Data Structures and Algorithms">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2007" offered="true" action="insert">
+  <course id="165530" subject="CO" courseNbr="2007" controlling="true" title="Computer Architecture">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2007 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2011" offered="true" action="insert">
+  <course id="165531" subject="CO" courseNbr="2011" controlling="true" title="Mathematical Modeling">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2011 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2013" offered="true" action="insert">
+  <course id="165532" subject="CO" courseNbr="2013" controlling="true" title="Database Systems">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2013 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2017" offered="true" action="insert">
+  <course id="165533" subject="CO" courseNbr="2017" controlling="true" title="Operating Systems">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2017 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO2039" offered="true" action="insert">
+  <course id="165534" subject="CO" courseNbr="2039" controlling="true" title="Advanced Programming">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 2039 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO3001" offered="true" action="insert">
+  <course id="165535" subject="CO" courseNbr="3001" controlling="true" title="Software Engineering">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 3001 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO3005" offered="true" action="insert">
+  <course id="165536" subject="CO" courseNbr="3005" controlling="true" title="Principles of Programming Languages">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 3005 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO3093" offered="true" action="insert">
+  <course id="165537" subject="CO" courseNbr="3093" controlling="true" title="Computer Networks">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 3093 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO3335" offered="true" action="insert">
+  <course id="165538" subject="CO" courseNbr="3335" controlling="true" title="Internship">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 3335 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO4029" offered="true" action="insert">
+  <course id="165539" subject="CO" courseNbr="4029" controlling="true" title="Specialized Project">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 4029 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="CO4337" offered="true" action="insert">
+  <course id="165540" subject="CO" courseNbr="4337" controlling="true" title="Capstone Project">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="CO 4337 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="LA1003" offered="true" action="insert">
+  <course id="165541" subject="LA" courseNbr="1003" controlling="true" title="English 1">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="LA 1003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="LA1005" offered="true" action="insert">
+  <course id="165542" subject="LA" courseNbr="1005" controlling="true" title="English 2">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="LA 1005 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="LA1007" offered="true" action="insert">
+  <course id="165543" subject="LA" courseNbr="1007" controlling="true" title="English 3">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="LA 1007 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="LA1009" offered="true" action="insert">
+  <course id="165544" subject="LA" courseNbr="1009" controlling="true" title="English 4">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="LA 1009 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="MI1003" offered="true" action="insert">
+  <course id="165545" subject="MI" courseNbr="1003" controlling="true" title="Military Training">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="MI 1003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="MT1003" offered="true" action="insert">
+  <course id="165546" subject="MT" courseNbr="1003" controlling="true" title="Calculus 1">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="MT 1003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="MT1005" offered="true" action="insert">
+  <course id="165547" subject="MT" courseNbr="1005" controlling="true" title="Calculus 2">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="MT 1005 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="MT1007" offered="true" action="insert">
+  <course id="165548" subject="MT" courseNbr="1007" controlling="true" title="Linear Algebra">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="MT 1007 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="MT2013" offered="true" action="insert">
+  <course id="165549" subject="MT" courseNbr="2013" controlling="true" title="Probability and Statistics">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="MT 2013 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="PH1003" offered="true" action="insert">
+  <course id="165550" subject="PH" courseNbr="1003" controlling="true" title="General Physics 1">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="PH 1003 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="PH1007" offered="true" action="insert">
+  <course id="165551" subject="PH" courseNbr="1007" controlling="true" title="General Physics Labs">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="PH 1007 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="SP1007" offered="true" action="insert">
+  <course id="165552" subject="SP" courseNbr="1007" controlling="true" title="Introduction to Vietnamese Law">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="SP 1007 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="SP1031" offered="true" action="insert">
+  <course id="165553" subject="SP" courseNbr="1031" controlling="true" title="Marxist - Leninist Philosophy">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="SP 1031 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="SP1033" offered="true" action="insert">
+  <course id="165554" subject="SP" courseNbr="1033" controlling="true" title="Marxist - Leninist Political Economy">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="SP 1033 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="SP1035" offered="true" action="insert">
+  <course id="165555" subject="SP" courseNbr="1035" controlling="true" title="Scientific Socialism">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="SP 1035 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="SP1037" offered="true" action="insert">
+  <course id="165556" subject="SP" courseNbr="1037" controlling="true" title="Ho Chi Minh Ideology">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="SP 1037 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+<offering id="SP1039" offered="true" action="insert">
+  <course id="165557" subject="SP" courseNbr="1039" controlling="true" title="History of Vietnamese Communist Party">
+    <courseCredit creditType="collegiate" creditUnitType="semesterHours" creditFormat="fixedUnit" fixedCredit="3.0"/>
+  </course>
+  <config name="1" limit="10" durationType="MIN_PER_WEEK">
+    <subpart type="Lec" suffix="" minPerWeek="50"/>
+    <class id="SP 1039 Lec 1" type="Lec" suffix="1" limit="10" studentScheduling="true" displayInScheduleBook="true" cancelled="false"/>
+  </config>
+</offering>
+</offerings>

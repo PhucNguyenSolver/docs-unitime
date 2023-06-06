@@ -19,7 +19,7 @@
  * limitations under the License.
  * 
  -->
-<sessionSetup term="Fal" year="2010" campus="TEST" dateFormat="yyyy/M/d">
+<sessionSetup term="222" year="2022" campus="hcmut" dateFormat="yyyy/M/d">
   <!-- Element session is optional, needed to create and/or update acedemic session information -->
   <session startDate="2010/8/23" endDate="2010/12/19" classEndDate="2010/12/12" examStartDate="2010/12/13" eventStartDate="2010/7/19" eventEndDate="2011/1/16">
     <holidays>
@@ -76,30 +76,15 @@
     </department>
   </departments>
   <subjectAreas>
-    <subjectArea abbreviation="ALG" title="Algebra" department="0101"/>
-    <subjectArea abbreviation="BAND" title="Band" department="0101"/>
-    <subjectArea abbreviation="BIOL" title="Biology" department="0101"/>
-    <subjectArea abbreviation="CALC" title="Calculus" department="0101"/>
-    <subjectArea abbreviation="CHIN" title="Chinese" department="0101"/>
-    <subjectArea abbreviation="CHM" title="Chemistry" department="0101"/>
-    <subjectArea abbreviation="COM" title="Communications" department="0101"/>
-    <subjectArea abbreviation="C S" title="Computer Science" department="0101"/>
-    <subjectArea abbreviation="ECON" title="Economics" department="0101"/>
-    <subjectArea abbreviation="ENGL" title="English" department="0101"/>
-    <subjectArea abbreviation="ENGR" title="Engineering" department="0101"/>
-    <subjectArea abbreviation="GER" title="German" department="0101"/>
-    <subjectArea abbreviation="HIST" title="History" department="0101"/>
-    <subjectArea abbreviation="LING" title="Linguistics" department="0101"/>
-    <subjectArea abbreviation="MBIO" title="Microbiology" department="0101"/>
-    <subjectArea abbreviation="PHAR" title="Pharmacy" department="0101"/>
-    <subjectArea abbreviation="PHIL" title="Philosophy" department="0101"/>
-    <subjectArea abbreviation="PHYS" title="Physics" department="0101"/>
-    <subjectArea abbreviation="POL" title="Political Science" department="0101"/>
-    <subjectArea abbreviation="PSY" title="Psychology" department="0101"/>
-    <subjectArea abbreviation="SOC" title="Solciology" department="0101"/>
-    <subjectArea abbreviation="SPAN" title="Spanish" department="0101"/>
     <subjectArea abbreviation="VIET" title="Vietnamese" department="0101"/>
+    <subjectArea abbreviation="CH" title="Chemistry" department="0101"/>
     <subjectArea abbreviation="CO" title="Computing" department="0101"/>
+    <subjectArea abbreviation="LA" title="Languages" department="0101"/>
+    <subjectArea abbreviation="MI" title="Military" department="0101"/>
+    <subjectArea abbreviation="MT" title="Mathematics" department="0101"/>
+    <subjectArea abbreviation="PE" title="Physical Education" department="0101"/>
+    <subjectArea abbreviation="PH" title="Physics" department="0101"/>
+    <subjectArea abbreviation="SP" title="Social Politics" department="0101"/>
   </subjectAreas>
   <solverGroups>
     <solverGroup abbreviation="Instr Plan" name="Instructional Planning">
