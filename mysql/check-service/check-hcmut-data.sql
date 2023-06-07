@@ -55,11 +55,18 @@ INSERT INTO `course_condition` (`id`, `course_id`, `course_condition`) VALUES
   (114, 'SP1039', '{\"course\":{\"type\":2,\"courseDesId\":\"SP1035\"}}');
 
 INSERT INTO `min_max_credit` (`id`, `academic_program`, `semester`, `min_credit`, `max_credit`) VALUES
-  (1, 'DT', 191, 14, 21),
+  (1, 'DT', 191, 12, 21),
   (2, 'CLC', 191, 12, 22);
 
 INSERT INTO `teaching_plan` (`id`, `faculty`, `speciality`, `academic_program`, `semester_order`, `course_list`, `free_credit_info`) VALUES
-  (1, 'KHMT', 'KHM',  'DT', 3, '[\"C S\", \"CALC\"]', '[\n  {\n    \"nums\": 3,\n    \"group\": \"C\"\n  },\n  {\n    \"nums\": 6,\n    \"group\": \"D\"\n  }\n]');
+  (1, 'KHMT', 'KHM',  'DT', 1, '[\"LA1003\",\"MI1003\",\"PE1003\",\"MT1003\",\"PH1003\",\"CO1005\",\"CO1023\"]', '[]'),
+  (2, 'KHMT', 'KHM',  'DT', 2, '[\"LA1005\",\"PE1005\",\"MT1005\",\"MT1007\",\"CO1007\",\"CO1027\",\"PH1007\"]', '[]'),
+  (3, 'KHMT', 'KHM',  'DT', 3, '[\"LA1007\",\"SP1031\",\"CO2007\",\"CO2011\",\"CO2003\",\"PE1007\"]', '[\n{\n\"nums\":3,\n\"group\":\"C\"\n},\n{\n\"nums\":6,\n\"group\":\"D\"\n}\n]'),
+  (4, 'KHMT', 'KHM',  'DT', 4, '[\"LA1009\",\"SP1033\",\"CO2017\",\"CO2039\",\"MT2013\"]', '[]'),
+  (5, 'KHMT', 'KHM',  'DT', 5, '[\"SP1035\",\"CO3093\",\"CO2013\",\"CO3001\",\"CH1003\"]', '[]'),
+  (6, 'KHMT', 'KHM',  'DT', 6, '[\"SP1039\",\"CO2001\",\"CO3005\",\"CO3335\"]', '[]'),
+  (7, 'KHMT', 'KHM',  'DT', 7, '[\"SP1037\",\"CO4029\"]', '[]'),
+  (8, 'KHMT', 'KHM',  'DT', 8, '[\"SP1007\",\"CO4337\"]', '[]');
 
 
 INSERT INTO `white_list` (`id`, `student_id`, `semester`, `min_credit`, `max_credit`, `description`) VALUES
