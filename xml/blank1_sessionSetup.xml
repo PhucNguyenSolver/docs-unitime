@@ -19,7 +19,7 @@
  * limitations under the License.
  * 
  -->
-<sessionSetup term="222" year="2022" campus="hcmut" dateFormat="yyyy/M/d">
+<sessionSetup term="191" year="2022" campus="hcmut" dateFormat="yyyy/M/d">
   <!-- Element session is optional, needed to create and/or update acedemic session information -->
   <session startDate="2010/8/23" endDate="2010/12/19" classEndDate="2010/12/12" examStartDate="2010/12/13" eventStartDate="2010/7/19" eventEndDate="2011/1/16">
     <holidays>
